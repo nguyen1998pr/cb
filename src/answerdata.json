@@ -1,0 +1,23 @@
+[
+  {
+    "target": "chao_hoi",
+    "feature":
+    [
+      "Chào bạn.", "Bạn cần hõ trợ gì không ?", "Bạn cần giúp gì ?"
+    ]
+  },
+  {
+    "target": "hoc_phi",
+    "feature":
+    [
+      "Học phí hiện tại là 5 triệu cho 1 kì.", "Chỉ 5 triệu 1 kì."
+    ]
+  },
+  {
+    "target": "khoa_hoc",
+    "feature":
+    [
+      "Khóa học này là 4 năm.", "4 năm."
+    ]
+  }
+]

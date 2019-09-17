@@ -1,0 +1,18 @@
+[
+  {"feature": "Xin chào", "target": "chao_hoi"},
+  {"feature": "Chào bạn", "target": "chao_hoi"},
+  {"feature": "Hello bạn", "target": "chao_hoi"},
+  {"feature": "Alo", "target": "chao_hoi"},
+  {"feature": "Hi em", "target": "chao_hoi"},
+  {"feature": "Chào admin", "target": "chao_hoi"},
+  {"feature": "Học phí", "target": "hoc_phi"},
+  {"feature": "Tiền học", "target": "hoc_phi"},
+  {"feature": "Bao nhiêu một kỳ", "target": "hoc_phi"},
+  {"feature": "Số tiền", "target": "hoc_phi"},
+  {"feature": "Đóng bao nhiêu", "target": "hoc_phi"},
+  {"feature": "Chi tiết khóa học", "target": "khoa_hoc"},
+  {"feature": "Khóa học", "target": "khoa_hoc"},
+  {"feature": "Học bao lâu", "target": "khoa_hoc"},
+  {"feature": "Ngành học này", "target": "khoa_hoc"},
+  {"feature": "Thời gian khóa học", "target": "khoa_hoc"}
+]
